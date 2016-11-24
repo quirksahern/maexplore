@@ -1,11 +1,11 @@
-name: Morea CORE (Change me)
+name: Morea exploration
 markdown: kramdown
 kramdown:
   hard_wrap: false
   input: GFM
   syntax_highlighter: rouge
 mathjax: true
-baseurl: /core
+baseurl: /maexplore
 exclude: [morea]
 morea_theme: spacelab
 morea_navbar_items:
